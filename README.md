@@ -1,4 +1,4 @@
-# Hi, I'm Robin Mwaniki 👋
+# Hi, I'm Robin Mwaniki 
 
 ### Junior Software Developer | Java & Spring Boot
 
@@ -6,9 +6,9 @@ I'm a Computer Science diploma graduate from Zetech University with hands-on bac
 
 I enjoy building backend services, developing REST APIs, working with databases, and solving practical problems through software. I'm continuously improving my skills in Java, Spring Boot, testing, and software development best practices.
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
-* **Languages:** Java, HTML, CSS, PHP
+* **Languages:** Java, HTML, PHP
 * **Backend:** Spring Boot, REST APIs, Spring Data JPA
 * **Databases:** PostgreSQL, MySQL
 * **Testing:** JUnit, Postman
@@ -26,7 +26,7 @@ I enjoy building backend services, developing REST APIs, working with databases,
   A Spring Boot application focused on employee management and role-based access control.
   [View Repository](https://github.com/robinmwaniki/employment-management-system)
 
-### 💼 Professional Experience
+###  Professional Experience
 
 **Developer Intern — Data Integrated Limited**
 *August 2026 – Present*
@@ -39,12 +39,12 @@ I enjoy building backend services, developing REST APIs, working with databases,
 * Continue developing practical backend engineering skills while collaborating with the development team.
 
 
-### 📜 Certifications
+###  Certifications
 
 * Cisco Networking Academy — Introduction to Networks
 * Cisco Networking Academy — Switching, Routing and Wireless Essentials
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 * **GitHub:** [robinmwaniki](https://github.com/robinmwaniki)
 * **LinkedIn:** [robin mwaniki](https://www.linkedin.com/in/robin-mwaniki-a55598339)
